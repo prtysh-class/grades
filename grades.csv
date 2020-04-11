@@ -4,3 +4,7 @@ id,assign,sharanya, nidheesh, nidhi, kushal, keshav
 2,sudoku,0,0,0,0,0
 3,asteroids,0.5,0,0,0.5,0
 4,space invaders,0.75,0,0,0.75,0.25 
+5,pendulum,0.5,0,0.5,0.75,1.0
+6,koch,0,0,0.25,1.0,0.75
+7,clock,0.75,0.75,0.75,1.0,0.75
+8,finals,0.5,0,0.5,1.0,0.6
